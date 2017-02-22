@@ -1,5 +1,5 @@
 # Sequence-to-Sequence-Learning
-Implementing sequence to sequence learning using an LSTM based encoder-decoder style architecture using Keras with a Theano backend. This is an ongoing project and to achieve the target smaller milestones have been set with the overarching aim of not only implementing sequence to sequence learning but also to enable broader understanding of implementing architectures in Keras.
+Implementing sequence to sequence learning using an LSTM based encoder-decoder style architecture using Keras with a Theano backend. This is an ongoing project and to achieve the target, smaller milestones have been set with the overarching aim of not only implementing sequence to sequence learning but also to enable broader understanding of implementing architectures in Keras.
 
 - [x] **Milestone 1:** 
 Given a sample of text, an LSTM layer learns and starts generating the text (character by character) in the style of the author. The output, given a random seed is as shown:
