@@ -1,4 +1,4 @@
-# Mimicking Auhtorial Styles using LSTMs
+# Mimicking Authorial Styles using LSTMs
 
 
 Given a sample of text, an LSTM layer learns the style and starts generating the text (character by character) in the style of the author. The output, given a random seed is as shown when trained on a passage of Nietzche:
